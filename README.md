@@ -8,7 +8,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=c-sharp&logoColor=239120" alt="CSharp logo" title="C Sharp" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
